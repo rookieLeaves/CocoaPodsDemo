@@ -1,0 +1,22 @@
+{
+  "name": "CocoaPodsDemo",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaPodsDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/2382890750@qq.com/CocoaPodsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2382890750@qq.com": "gaorongqiang@huowanes.com"
+  },
+  "source": {
+    "git": "https://github.com/2382890750@qq.com/CocoaPodsDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoaPodsDemo/Classes/**/*"
+}
